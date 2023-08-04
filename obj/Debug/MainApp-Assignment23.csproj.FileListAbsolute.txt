@@ -1,0 +1,11 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\bin\Debug\MainApp-Assignment23.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\bin\Debug\MainApp-Assignment23.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\bin\Debug\MainApp-Assignment23.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\bin\Debug\MySharedLib.dll
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\bin\Debug\MySharedLib.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\obj\Debug\MainApp-Assignment23.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\obj\Debug\MainApp-Assignment23.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\obj\Debug\MainApp-Assignment23.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\obj\Debug\MainApp-Assignment23.csproj.CopyComplete
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\obj\Debug\MainApp-Assignment23.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date4-8\MainApp-Assignment23\MainApp-Assignment23\obj\Debug\MainApp-Assignment23.pdb
